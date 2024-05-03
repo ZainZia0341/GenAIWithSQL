@@ -1,0 +1,1 @@
+# created virtual environment conda create -p GenAIWithSQL python==3.10 -y
